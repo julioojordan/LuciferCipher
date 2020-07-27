@@ -1,6 +1,6 @@
 # LuciferCipher
 
-<p> Here is the Lucifer Cipher Encryption-Decryption using Python 3, the program is still in indonesian and i haven't done tranlate yet :D, and for the algorithm i use is from <a href = "https://www.researchgate.net/publication/338673259_PENINGKATAN_KEAMANAN_DATA_TEKS_TERENKRIPSI_ALGORITMA_LUCIFER_MENGGUNAKAN_STEGANOGRAFI_GIFSHUFFLE_PADA_CITRA"> here </a>, it's in indonesian ,or you can watch it in <a href = "http://www.quadibloc.com/crypto/co0401.htm"> here </a> for the english one  </p>
+<p> Here is the Lucifer Cipher Encryption-Decryption using Python 3, the program is still in indonesian and i haven't done translate yet :D, and for the algorithm i use is from <a href = "https://www.researchgate.net/publication/338673259_PENINGKATAN_KEAMANAN_DATA_TEKS_TERENKRIPSI_ALGORITMA_LUCIFER_MENGGUNAKAN_STEGANOGRAFI_GIFSHUFFLE_PADA_CITRA"> here </a>, it's in indonesian ,or you can watch it in <a href = "http://www.quadibloc.com/crypto/co0401.htm"> here </a> for the english one  </p>
 <hr>
 <h4>Lucifer Algorithm steps :</h4>
 <ol>
