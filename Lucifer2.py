@@ -1,6 +1,8 @@
-#enkripsi dan dekripsi menggunakan Lucifer cipher
+# Encryption Decryption Using Lucifer cipher
 #Julio Andan Jordan Aryanto
 #24060117130078
+#DIPONEGORO UNIVERSITY
+#IT 17
 from tkinter import * 
 
 
@@ -250,18 +252,18 @@ root.title("Lucifer Encryption-Decryption")
 root.geometry("800x600")
               
 # Label dan posisi 
-label1 = Label(root, text ='Plainteks')                
+label1 = Label(root, text ='Plaintext')                
 label1.grid(row = 10, column = 1) 
-label2 = Label(root, text ='Kunci') 
+label2 = Label(root, text ='Key') 
 label2.grid(row = 11, column = 1) 
-label3 = Label(root, text ="Cipherteks") 
+label3 = Label(root, text ="Ciphertext") 
 label3.grid(row = 12, column = 1)
 
-label4 = Label(root, text ='Cipherteks')                
+label4 = Label(root, text ='Ciphertext')                
 label4.grid(row = 10, column = 10) 
-label5 = Label(root, text ='Kunci') 
+label5 = Label(root, text ='Key') 
 label5.grid(row = 11, column = 10) 
-label6 = Label(root, text ="Plainteks") 
+label6 = Label(root, text ="Plaintext") 
 label6.grid(row = 12, column = 10)
 
 
@@ -282,11 +284,11 @@ e6.grid(row = 12, column = 11)
 
 
 #membuat tombol enkripsi    
-b1 = Button(root, text = "Enkripsi", bg ="red", fg ="white", command = Enkripsi) 
+b1 = Button(root, text = "Encrypt", bg ="red", fg ="white", command = Enkripsi) 
 b1.grid(row = 14, column = 2)       
 
 
 #membuat tombol enkripsi    
-b2 = Button(root, text = "Dekripsi", bg ="green", fg ="white", command = Dekripsi) 
+b2 = Button(root, text = "Decrypt", bg ="green", fg ="white", command = Dekripsi) 
 b2.grid(row = 14, column = 11)
 
