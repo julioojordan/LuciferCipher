@@ -22,5 +22,9 @@ Bytes have a maximum capacity of 15 starting from 0 </p>
 <hr>
 
 <p> there are 2 file in here which is the lucifer1.py(without GUi) and the lucifer2.py (with GUI) </p>
+<p> how to use : </p>
+<ul>
+  <li> if u running the lucifer2.py dont forget to install tkinter </li>
+  <li> the plaintext, ciphertext, and key should be 16 char long </li>
 <br>
 <p> enjoy guys, you can watch the full explanation by watching <a href= "https://youtu.be/CG57-dA3b0U" > this </a>
