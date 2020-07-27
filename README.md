@@ -21,7 +21,7 @@ the maximum length of a Message Byte is 8, and the C-I-D round has a maximum cap
 Bytes have a maximum capacity of 15 starting from 0 </p>
 <hr>
 
-<p> there are 2 file in here which is the lucifer1.py(without GUi) and the lucifer2.py (with GUI) </p>
+<p> there are 2 files which is the lucifer1.py(without GUi) and the lucifer2.py (with GUI) </p>
 <p> how to use : </p>
 <ul>
   <li> if u running the lucifer2.py dont forget to install tkinter </li>
