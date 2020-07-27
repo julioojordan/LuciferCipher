@@ -1,6 +1,8 @@
-# enkripsi dan dekripsi menggunakan Lucifer cipher
+# Encryption Decryption Using Lucifer cipher
 #Julio Andan Jordan Aryanto
 #24060117130078
+#DIPONEGORO UNIVERSITY
+#IT 17
 
 #inisialisasi
 #pembuatan key
@@ -73,17 +75,17 @@ Tkbas = [
 def begin():
     print ("=============================")
 
-    print ("Apa yang ingin Dilakukan ?")
-    print ("1. Enkripsi")
-    print ("2. Dekripsi")
+    print ("What You Want to Do ?")
+    print ("1. Encryption")
+    print ("2. Decryption")
     print ("=============================")
 
-    pil = input("Masukan Pilihan Anda;")
+    pil = input("Input your choice;")
 
 #===========Enkripsi===========
     if pil == '1':
-        plainteks = input('Masukan plainteks: ')
-        key = input('Masukan Kunci:')
+        plainteks = input('MPlaintexts: ')
+        key = input('Key:')
 
         #=======Pembuatan key=======
         arraykey = Key(key)
@@ -170,8 +172,8 @@ def begin():
             
 #===========Dekripsi===========
     elif pil == '2':
-        cipherteks = input('Masukan cipherteks: ')
-        key = input('Masukan Kunci:')
+        cipherteks = input('Ciphertext: ')
+        key = input('Key:')
 
         #=======Pembuatan key=======
         arraykey = Key(key)
